@@ -1,1 +1,3 @@
 deployed in octopus
+
+trial of a CI implementation
