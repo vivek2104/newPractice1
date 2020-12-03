@@ -1,1 +1,3 @@
-octopus auto upload package from vm
+octopus auto upload package from system
+
+build error resolved from jenkins
