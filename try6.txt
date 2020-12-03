@@ -8,3 +8,5 @@ trial 1
 everything upto date
 
 final update done
+
+automated cicd
